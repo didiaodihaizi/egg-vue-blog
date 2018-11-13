@@ -1,0 +1,8 @@
+2018-11-05 23:16:25,334 INFO 14620 [egg-logview] mount log F:\egg-vue-blog\logs at http://127.0.0.1:7001/__logs
+2018-11-05 23:16:37,637 INFO 14620 [-/127.0.0.1/-/153ms GET /] [access] 127.0.0.1: - GET / HTTP/200 3387 - 139 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 23:23:44,619 INFO 14620 [-/127.0.0.1/-/73ms GET /blog] [access] 127.0.0.1: - GET /blog HTTP/200 7276 - 72 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 23:24:15,774 INFO 14620 [-/127.0.0.1/-/32ms GET /blog] [access] 127.0.0.1: - GET /blog HTTP/200 7276 - 31 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 23:24:25,365 INFO 14620 [-/127.0.0.1/-/69ms GET /blog] [access] 127.0.0.1: - GET /blog HTTP/200 7276 - 69 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 23:24:30,783 INFO 14620 [-/127.0.0.1/-/34ms GET /blog] [access] 127.0.0.1: - GET /blog HTTP/200 7276 - 34 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 23:33:58,758 INFO 14620 [-/127.0.0.1/-/32ms GET /blog] [access] 127.0.0.1: - GET /blog HTTP/200 7276 - 31 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-05 23:34:18,794 INFO 14620 [-/127.0.0.1/-/33ms GET /blog] [access] 127.0.0.1: - GET /blog HTTP/200 7276 - 33 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36

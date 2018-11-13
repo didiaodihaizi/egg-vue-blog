@@ -1,0 +1,12 @@
+2018-11-05 23:16:25,387 INFO 14504 [Timer] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-11-06 00:00:00.000
+2018-11-05 23:16:25,388 INFO 14504 [Timer] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-11-06 00:00:01.000
+2018-11-06 00:00:00,040 INFO 14620 [1541433600017262286853623812] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js task received by app
+2018-11-06 00:00:00,045 INFO 14620 [1541433600017262286853623812] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js executing by app
+2018-11-06 00:00:00,069 INFO 14620 [1541433600017262286853623812] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js execute succeed, used 23ms
+2018-11-06 00:00:00,018 INFO 14504 [1541433600017262286853623812] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js triggered, send random by agent
+2018-11-06 00:00:00,063 INFO 14504 [Timer] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-11-07 00:00:00.000
+2018-11-06 00:00:01,007 INFO 14620 [1541433601001262287837640432] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js task received by app
+2018-11-06 00:00:01,007 INFO 14620 [1541433601001262287837640432] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2018-11-06 00:00:01,027 INFO 14620 [1541433601001262287837640432] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 20ms
+2018-11-06 00:00:01,001 INFO 14504 [1541433601001262287837640432] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js triggered, send random by agent
+2018-11-06 00:00:01,010 INFO 14504 [Timer] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-11-07 00:00:01.000

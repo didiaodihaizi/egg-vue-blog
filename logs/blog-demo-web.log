@@ -1,0 +1,13 @@
+2018-11-13 00:13:41,647 INFO 6124 [egg-logview] mount log F:\egg-vue-blog\logs at http://127.0.0.1:7001/__logs
+2018-11-13 00:16:01,540 INFO 14280 [egg-logview] mount log F:\egg-vue-blog\logs at http://127.0.0.1:7001/__logs
+2018-11-13 00:16:10,015 INFO 14280 [-/127.0.0.1/-/144ms GET /public/a31641575f69de9889f9.hot-update.json] [access] 127.0.0.1: - GET /public/a31641575f69de9889f9.hot-update.json HTTP/200 2816 http://127.0.0.1:7001/blog 109 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-13 00:16:12,889 INFO 14280 [-/127.0.0.1/-/57ms GET /] [access] 127.0.0.1: - GET / HTTP/200 3387 - 56 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-13 00:16:23,745 INFO 14280 [-/127.0.0.1/-/73ms GET /blog] [access] 127.0.0.1: - GET /blog HTTP/200 10501 - 71 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-13 00:18:02,147 INFO 14280 [-/127.0.0.1/-/40ms GET /blog] [access] 127.0.0.1: - GET /blog HTTP/200 10501 - 40 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-13 00:18:03,464 INFO 9260 [egg-logview] mount log F:\egg-vue-blog\logs at http://127.0.0.1:7001/__logs
+2018-11-13 00:18:21,640 INFO 13304 [egg-logview] mount log F:\egg-vue-blog\logs at http://127.0.0.1:7001/__logs
+2018-11-13 00:18:25,763 INFO 13636 [egg-logview] mount log F:\egg-vue-blog\logs at http://127.0.0.1:7001/__logs
+2018-11-13 00:21:20,003 INFO 13636 [-/127.0.0.1/-/10ms GET /api/article/2] [access] 127.0.0.1: - GET /api/article/2 HTTP/200 177 - 2 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-13 00:21:36,102 INFO 13636 [-/127.0.0.1/-/1ms GET /blog/list] [access] 127.0.0.1: - GET /blog/list HTTP/200 1845 http://127.0.0.1:7001/blog 0 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-13 00:26:21,976 INFO 13636 [-/127.0.0.1/-/1ms GET /blog/list] [access] 127.0.0.1: - GET /blog/list HTTP/200 1845 http://127.0.0.1:7001/blog 1 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-13 00:26:42,326 INFO 13636 [-/127.0.0.1/-/2ms GET /blog/list] [access] 127.0.0.1: - GET /blog/list HTTP/200 1845 http://127.0.0.1:7001/blog 0 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36

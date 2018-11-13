@@ -1,0 +1,12 @@
+2018-11-01 23:52:01,730 INFO 6012 [Timer] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-11-02 00:00:00.000
+2018-11-01 23:52:01,730 INFO 6012 [Timer] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-11-02 00:00:01.000
+2018-11-02 00:00:00,004 INFO 6012 [15410880000041830725411777844] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js triggered, send random by agent
+2018-11-02 00:00:00,011 INFO 6012 [Timer] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-11-03 00:00:00.000
+2018-11-02 00:00:00,005 INFO 3368 [15410880000041830725411777844] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js task received by app
+2018-11-02 00:00:00,006 INFO 3368 [15410880000041830725411777844] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js executing by app
+2018-11-02 00:00:00,018 INFO 3368 [15410880000041830725411777844] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js execute succeed, used 12ms
+2018-11-02 00:00:01,002 INFO 6012 [15410880010021830726409314180] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js triggered, send random by agent
+2018-11-02 00:00:01,008 INFO 6012 [Timer] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-11-03 00:00:01.000
+2018-11-02 00:00:01,001 INFO 3368 [15410880010021830726409314180] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js task received by app
+2018-11-02 00:00:01,002 INFO 3368 [15410880010021830726409314180] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2018-11-02 00:00:01,019 INFO 3368 [15410880010021830726409314180] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 17ms

@@ -1,0 +1,22 @@
+2018-10-27 00:00:01,037 INFO 9556 [egg-logrotator] app logger reload: got log-reload message
+2018-11-01 23:52:01,311 INFO 3368 [egg:logger] init all loggers with options: {"dir":"F:\\egg-vue-blog\\logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blog-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-11-01 23:52:01,392 INFO 3368 [egg-schedule]: register schedule F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js
+2018-11-01 23:52:01,392 INFO 3368 [egg-schedule]: register schedule F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js
+2018-11-01 23:52:01,394 INFO 3368 [egg-multipart] stream mode enable
+2018-11-01 23:52:01,614 INFO 3368 [egg-static] starting static serve /public/ -> F:\egg-vue-blog\public
+2018-11-01 23:52:01,620 INFO 3368 [egg-security] use csrf middleware
+2018-11-01 23:52:01,626 INFO 3368 [egg-security] use methodnoallow middleware
+2018-11-01 23:52:01,627 INFO 3368 [egg-security] use noopen middleware
+2018-11-01 23:52:01,631 INFO 3368 [egg-security] use nosniff middleware
+2018-11-01 23:52:01,632 INFO 3368 [egg-security] use xssProtection middleware
+2018-11-01 23:52:01,633 INFO 3368 [egg-security] use xframe middleware
+2018-11-01 23:52:01,634 INFO 3368 [egg-security] use dta middleware
+2018-11-01 23:52:01,634 INFO 3368 [egg-security] compose 7 middlewares into one security middleware
+2018-11-01 23:52:01,673 INFO 3368 [egg:core] dump config after load, 19ms
+2018-11-01 23:52:01,703 INFO 3368 [egg-watcher:application] watcher start success
+2018-11-01 23:52:01,721 INFO 3368 [egg:core] dump config after ready, 13ms
+2018-11-02 00:00:00,018 INFO 3368 [egg-logrotator] clean all log before 31 days
+2018-11-02 00:00:00,018 INFO 3368 [-/127.0.0.1/-/12ms SCHEDULE /__schedule?path=F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js&type=worker&cron=0%200%20*%20*%20*] [egg-schedule] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\clean_log.js execute succeed, used 12ms
+2018-11-02 00:00:01,018 INFO 3368 [egg-logrotator] broadcast log-reload
+2018-11-02 00:00:01,019 INFO 3368 [egg-logrotator] rotate files success by DayRotator, files ["F:\\egg-vue-blog\\logs\\common-error.log -> F:\\egg-vue-blog\\logs\\common-error.log.2018-11-01","F:\\egg-vue-blog\\logs\\blog-demo-web.log -> F:\\egg-vue-blog\\logs\\blog-demo-web.log.2018-11-01","F:\\egg-vue-blog\\logs\\egg-web.log -> F:\\egg-vue-blog\\logs\\egg-web.log.2018-11-01","F:\\egg-vue-blog\\logs\\blog-demo\\egg-schedule.log -> F:\\egg-vue-blog\\logs\\blog-demo\\egg-schedule.log.2018-11-01","F:\\egg-vue-blog\\logs\\egg-agent.log -> F:\\egg-vue-blog\\logs\\egg-agent.log.2018-11-01"]
+2018-11-02 00:00:01,019 INFO 3368 [-/127.0.0.1/-/17ms SCHEDULE /__schedule?path=F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [egg-schedule] F:\egg-vue-blog\node_modules\_egg-logrotator@3.0.4@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 17ms

@@ -1,0 +1,4 @@
+2018-11-12 23:44:06,222 INFO 16920 [egg-logview] mount log F:\egg-vue-blog\logs at http://127.0.0.1:7001/__logs
+2018-11-12 23:44:11,582 INFO 5292 [egg-logview] mount log F:\egg-vue-blog\logs at http://127.0.0.1:7001/__logs
+2018-11-12 23:44:19,581 INFO 5292 [-/127.0.0.1/-/134ms GET /] [access] 127.0.0.1: - GET / HTTP/200 3387 - 121 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+2018-11-12 23:50:18,014 INFO 8880 [egg-logview] mount log F:\egg-vue-blog\logs at http://127.0.0.1:7001/__logs

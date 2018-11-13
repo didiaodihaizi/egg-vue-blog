@@ -1,0 +1,12 @@
+2018-10-18 23:44:15,327 INFO 11684 [Timer] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-19 00:00:00.000
+2018-10-18 23:44:15,327 INFO 11684 [Timer] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-19 00:00:01.000
+2018-10-19 00:00:00,006 INFO 11684 [1539878400006621106297545295] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js triggered, send random by agent
+2018-10-19 00:00:00,013 INFO 11684 [Timer] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-10-20 00:00:00.000
+2018-10-19 00:00:00,008 INFO 9824 [1539878400006621106297545295] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js task received by app
+2018-10-19 00:00:00,010 INFO 9824 [1539878400006621106297545295] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js executing by app
+2018-10-19 00:00:00,017 INFO 9824 [1539878400006621106297545295] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\clean_log.js execute succeed, used 7ms
+2018-10-19 00:00:01,004 INFO 9824 [1539878401003621107294114917] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js task received by app
+2018-10-19 00:00:01,004 INFO 9824 [1539878401003621107294114917] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2018-10-19 00:00:01,022 INFO 9824 [1539878401003621107294114917] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 18ms
+2018-10-19 00:00:01,003 INFO 11684 [1539878401003621107294114917] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js triggered, send random by agent
+2018-10-19 00:00:01,010 INFO 11684 [Timer] F:\学习\blog\blog-demo\node_modules\_egg-logrotator@3.0.3@egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-10-20 00:00:01.000

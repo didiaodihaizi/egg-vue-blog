@@ -1,0 +1,24 @@
+{
+  "js/chunk/0.js": "/public/js/chunk/0.js",
+  "js/chunk/1.js": "/public/js/chunk/1.js",
+  "app.js": "/public/js/app.js",
+  "img/banner-老婆.jpeg": "/public/img/banner-老婆.jpeg",
+  "img/列表-老婆.jpeg": "/public/img/列表-老婆.jpeg",
+  "js/vendor.js": "/public/js/vendor.js",
+  "media/home-1.mp4": "/public/media/home-1.mp4",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "app.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/app.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "\\public",
+    "mapped": true
+  }
+}
